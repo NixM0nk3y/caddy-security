@@ -59,6 +59,8 @@ github.com/Masterminds/sprig/v3 v3.2.3 h1:eL2fZNezLomi0uOLqjQoN6BfsDD+fyLtgbJMAj
 github.com/Masterminds/sprig/v3 v3.2.3/go.mod h1:rXcFaZ2zZbLRJv/xSysmlgIM1u11eBaRMhvYXJNkGuM=
 github.com/Microsoft/go-winio v0.6.0 h1:slsWYD/zyx7lCXoZVlvQrj0hPTM1HI4+v1sIda2yDvg=
 github.com/Microsoft/go-winio v0.6.0/go.mod h1:cTAf44im0RAYeL23bpB+fzCyDH2MJiz2BO69KH/soAE=
+github.com/NixM0nk3y/go-authcrunch v0.0.0-20230707191251-aa7e49d48bd4 h1:cysBI/5gVB1Fz+ZwxXxGmhHeEg0Qwl050VEeoRDvcrE=
+github.com/NixM0nk3y/go-authcrunch v0.0.0-20230707191251-aa7e49d48bd4/go.mod h1:VTVSElvp8C9Xxs4d9c83qKyZi4VCUFqrzpD4nE7/5E4=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/alecthomas/assert/v2 v2.2.1 h1:XivOgYcduV98QCahG8T5XTezV5bylXe+lBxLG2K2ink=
@@ -279,10 +281,10 @@ github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5m
 github.com/googleapis/gax-go/v2 v2.8.0 h1:UBtEZqx1bjXtOQ5BVTkuYghXrr3N4V123VKJK67vJZc=
 github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
 github.com/gorilla/mux v1.4.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/greenpau/caddy-security v1.1.19 h1:zqZLp2xPJjtBzK4M/EiLf/5t2XcQidKwEV86flKMpv4=
+github.com/greenpau/caddy-security v1.1.19/go.mod h1:+8bB8TwRr+PitK7O8p4j+hx36EQO891csqzdRAAs1WU=
 github.com/greenpau/caddy-trace v1.1.11 h1:UnHjAHyvX3WklxynF8BThqniJD5vmw8c4pUwNGTTo08=
 github.com/greenpau/caddy-trace v1.1.11/go.mod h1:eoULUQ1k0zzwBVpq8V67C1PUEF64xeS6n8TBsRpXC8M=
-github.com/greenpau/go-authcrunch v1.0.40 h1:WCAP4n6mD80XYWuyKfrCF2OwfMMjiAckmuBQSPoCQyo=
-github.com/greenpau/go-authcrunch v1.0.40/go.mod h1:VTVSElvp8C9Xxs4d9c83qKyZi4VCUFqrzpD4nE7/5E4=
 github.com/greenpau/versioned v1.0.28 h1:qgoZYy2bNbWAC5Bb0sVVfv/UHSac4PuCwdQMHpp/f6s=
 github.com/greenpau/versioned v1.0.28/go.mod h1:rtFCvaWWNbMH4CJnje/xicgmrM63j++rUh5juSu0k/A=
 github.com/groob/finalizer v0.0.0-20170707115354-4c2ed49aabda/go.mod h1:MyndkAZd5rUMdNogn35MWXBX1UiBigrU8eTj8DoAC2c=

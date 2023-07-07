@@ -1,4 +1,4 @@
-module github.com/greenpau/caddy-security
+module github.com/NixM0nk3y/caddy-security
 
 go 1.19
 
@@ -6,6 +6,7 @@ require (
 	github.com/caddyserver/caddy/v2 v2.6.4
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
+	github.com/greenpau/caddy-security v1.1.19
 	github.com/greenpau/caddy-trace v1.1.11
 	github.com/greenpau/go-authcrunch v1.0.40
 	go.uber.org/zap v1.24.0
@@ -154,3 +155,5 @@ require (
 )
 
 replace github.com/crewjam/saml v0.4.10 => github.com/greenpau/origin_crewjam_saml v0.4.11-0.20221229165346-936eba92623a
+
+replace github.com/greenpau/go-authcrunch v1.0.40 => github.com/NixM0nk3y/go-authcrunch v0.0.0-20230707191251-aa7e49d48bd4
