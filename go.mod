@@ -154,3 +154,5 @@ require (
 )
 
 replace github.com/crewjam/saml v0.4.10 => github.com/greenpau/origin_crewjam_saml v0.4.11-0.20221229165346-936eba92623a
+
+replace github.com/greenpau/go-authcrunch v1.0.40 => github.com/NixM0nk3y/go-authcrunch v0.0.0-20230709150707-97fcb10e2157
